@@ -5,6 +5,9 @@ nav:
     - 'Software Project Management plan': 'Software Project Management Plan.md'
     - 'Business Model Canvas pdf': 'business_model_canvas_poster.pdf'
     - 'Project Model Canvas pdf': 'Project_Model_Canvas.pdf'
+    - 'Project Charter pdf': 'Project_Charter_Doc.pdf'
+    - 'Software Requirements Specification pdf': 'Software Project Management Plan.pdf'
+    - 'Software Project Management plan pdf': 'Software Project Management Plan.pdf'
     
 theme:
     name: readthedocs
