@@ -18,6 +18,8 @@ nav:
     - 'Test Case Specification pdf': 'Test_Case_Specification.pdf'
     - 'Test Plan': 'test_plan.md'
     - 'Test Plan pdf': 'test_plan.pdf'
+    - 'System Documentation': 'System_Documentation.md'
+    - 'System Documentation': 'System_Documentation.pdf'
     
 theme:
     name: readthedocs
