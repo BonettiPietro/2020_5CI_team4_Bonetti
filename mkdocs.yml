@@ -8,6 +8,14 @@ nav:
     - 'Project Charter pdf': 'Project_Charter_Doc.pdf'
     - 'Software Requirements Specification pdf': 'Software Project Management Plan.pdf'
     - 'Software Project Management plan pdf': 'Software Project Management Plan.pdf'
+    - 'Iteration Plan': 'iteration_plan.md'
+    - 'Iteration Plan pdf': 'iteration_plan.pdf'
+    - 'Project Success Criteria': 'Project_Success_Criteria.md'
+    - 'Project Success Criteria pdf': 'Project_Success_Criteria.pdf'
+    - 'Release Plan': 'Release_Plan.md'
+    - 'Test Case Specification': 'Test_Case_Specification.md'
+    - 'Test Plan': 'test_plan.md'
+    - 'Test Plan pdf': 'test_plan.pdf'
     
 theme:
     name: readthedocs
