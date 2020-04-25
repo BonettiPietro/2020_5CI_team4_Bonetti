@@ -12,11 +12,11 @@ Pietro Bonetti
 
 # **Table of Contents**
 
-## 1. INTRODUCTION………………….…………………………………………..4
-## 2. TEST CASES: GOOGLE CHROME….………………………………….…4
-## 3. TEST CASES: MOZILLA FIREFOX…………………………………….….5
-## 4. TEST CASES: MICROSOFT EDGE...………………………………..……6
-## 5. TEST DNS...................................….........………………………………….8
+## 1. INTRODUCTION
+## 2. TEST CASES: GOOGLE CHROME
+## 3. TEST CASES: MOZILLA FIREFOX
+## 4. TEST CASES: MICROSOFT EDGE
+## 5. TEST DNS
 
 ---
 
