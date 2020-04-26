@@ -19,7 +19,13 @@ nav:
     - 'Test Plan': 'test_plan.md'
     - 'Test Plan pdf': 'test_plan.pdf'
     - 'System Documentation': 'System_Documentation.md'
-    - 'System Documentation': 'System_Documentation.pdf'
+    - 'System Documentation pdf': 'System_Documentation.pdf'
+    - 'Architecture and Design': 'architecture_and_design.md'
+    - 'Architecture and Design pdf': 'architecture_and_design.pdf'
+    - 'Memorandum of understanding' : 'MemorandumOfUnderstanding.md'
+    - 'Memorandum of understanding pdf' : 'MemorandumOfUnderstanding.pdf'
+    - 'User guide' : 'user_guide.md'
+    - 'User guide pdf' : 'user_guide.pdf'
     
 theme:
     name: readthedocs
