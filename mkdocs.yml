@@ -24,7 +24,6 @@ nav:
     - 'Architecture and Design pdf': 'architecture_and_design.pdf'
     - 'Memorandum of understanding' : 'MemorandumOfUnderstanding.md'
     - 'Memorandum of understanding pdf' : 'MemorandumOfUnderstanding.pdf'
-    - 'User guide' : 'user_guide.md'
     - 'User guide pdf' : 'user_guide.pdf'
     
 theme:
