@@ -25,6 +25,7 @@ nav:
     - 'Memorandum of understanding' : 'MemorandumOfUnderstanding.md'
     - 'Memorandum of understanding pdf' : 'MemorandumOfUnderstanding.pdf'
     - 'User guide pdf' : 'user_guide.pdf'
+    - 'User guide' : 'user_guide.md'
     
 theme:
     name: readthedocs
